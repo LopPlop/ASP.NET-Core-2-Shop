@@ -1,0 +1,11 @@
+﻿body {
+    
+}
+.center-div {
+    margin: 0 auto;
+    width: 100px;
+}
+
+.child {
+    margin: 1%; /* Отступы вокруг */
+}
